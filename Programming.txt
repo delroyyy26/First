@@ -10,3 +10,7 @@ C++
 
 AngularJS
 ReactJS
+Python
+C#
+
+Thank You :)
