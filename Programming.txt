@@ -7,3 +7,6 @@ HTML
 Java
 C
 C++
+
+AngularJS
+ReactJS
